@@ -1,3 +1,7 @@
+'''The main task was to make a pairwise global alignment with EMBOSS Needle tool, but i decided to make it on my own'''
+
+
+
 from Bio import Entrez
 import numpy as  np
 import pandas as pd
